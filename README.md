@@ -11,5 +11,7 @@
  ## Pratik - PratikKütüphane
  - **Kütüphaneye eklenicek kitapların dökümünü tutacak bir uygulama**
  -  **Parametreli ve parametresiz constructor methoduyla propertyleri oluşturuyoruz**
- 
- 
+ ## Pratik - Encapsulation
+ - **Araba Özelliklerini oluşturduğumuz bir uygulama**
+ - **Uygulamada araba marka,model,renk vek kapı sayısını görebiliyoruz**
+ - **Kapı sayısı girişinde kapsülleme yaparak 2 veya 4 girişi yapılmasını istiyoruz aksi taktirde -1 girişi ve uyarı mesajı gösterdik.**
