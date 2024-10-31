@@ -10,6 +10,6 @@
 - **Tanımlama sonrasında her iki constructor ile de birer bebek nesnesi tanımlayarak kimliklerini consol ekranına yazdırıyoruz.**
  ## Pratik - PratikKütüphane
  - **Kütüphaneye eklenicek kitapların dökümünü tutacak bir uygulama**
- - - **Parametreli ve parametresiz constructor methoduyla propertyleri oluşturuyoruz**
+ -  **Parametreli ve parametresiz constructor methoduyla propertyleri oluşturuyoruz**
  
  
