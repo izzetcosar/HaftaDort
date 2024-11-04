@@ -15,6 +15,6 @@
  - **Araba Özelliklerini oluşturduğumuz bir uygulama**
  - **Uygulamada araba marka,model,renk vek kapı sayısını görebiliyoruz**
  - **Kapı sayısı girişinde kapsülleme yaparak 2 veya 4 girişi yapılmasını istiyoruz aksi taktirde -1 girişi ve uyarı mesajı gösterdik.**
-   ## Pratik -  Inheritance
+## Pratik -  Inheritance
 - **Okul Veri sistemi oluşturduğumuz bir uygulama**
 - **Üst sınıfdan belirli propertyleri alıp bilgi girişi yapıyoruz**
