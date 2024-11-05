@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03PratikKutuphane", "P03Pr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04Encapsulation", "P04Encapsulation\P04Encapsulation.csproj", "{FE413188-943C-4E72-9C8A-36070DCF9E3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04Inheritance", "P04Inheritance\P04Inheritance.csproj", "{A2340D76-8C84-40CB-9AAD-E3CA57C0C540}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04Inheritance", "P04Inheritance\P04Inheritance.csproj", "{A2340D76-8C84-40CB-9AAD-E3CA57C0C540}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05Polymorphism", "P05Polymorphism\P05Polymorphism.csproj", "{12668C7A-4175-4FA6-A5A9-0BB3BD2C0290}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P05Polymorphism", "P05Polymorphism\P05Polymorphism.csproj", "{12668C7A-4175-4FA6-A5A9-0BB3BD2C0290}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06Abstraction", "P06Abstraction\P06Abstraction.csproj", "{EF05ED94-9851-445A-A432-49303709B5A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{12668C7A-4175-4FA6-A5A9-0BB3BD2C0290}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12668C7A-4175-4FA6-A5A9-0BB3BD2C0290}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12668C7A-4175-4FA6-A5A9-0BB3BD2C0290}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF05ED94-9851-445A-A432-49303709B5A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF05ED94-9851-445A-A432-49303709B5A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF05ED94-9851-445A-A432-49303709B5A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF05ED94-9851-445A-A432-49303709B5A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
