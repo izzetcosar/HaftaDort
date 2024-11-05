@@ -18,11 +18,7 @@
         }
         public abstract void Gorev();
 
-        public void kimlik()
-        {
-            Console.Write($"{Ad} {Soyad},{Departman} departmanında ");
-        }
-
+       
         
     }
     public class YazilimGelistirici : Calisan
@@ -33,7 +29,7 @@
 
         public override void Gorev()
         {
-            Console.Write("yazılım geliştirici olarak çalışıyorum.");
+            Console.Write($"{Ad} {Soyad},{Departman} departmanında yazılım geliştirici olarak çalışıyorum.");
             
         }
     }
@@ -44,7 +40,7 @@
 
         public override void Gorev()
         {
-            Console.WriteLine("Proje yöneticisi olarak çalışıyorum.");
+            Console.WriteLine($"{Ad} {Soyad},{Departman} departmanında proje yöneticisi olarak çalışıyorum.");
         }
     }
 
@@ -56,7 +52,7 @@
 
         public override void Gorev()
         {
-            Console.WriteLine("Satış temsilcisi olarak çalışıyorum.");
+            Console.WriteLine($"{Ad} {Soyad},{Departman} departmanında satış temsilcisi olarak çalışıyorum.");
         }
     }
 
