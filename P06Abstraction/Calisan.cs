@@ -1,6 +1,6 @@
 ﻿namespace P06Abstraction
 {
-    public abstract class Calisan
+    public abstract class Calisan //soyut oluşturduğum sınıf
     {
 
         public string Ad { get; set; }
@@ -16,7 +16,7 @@
            
             
         }
-        public abstract void Gorev();
+        public abstract void Gorev(); //görev metodu
 
        
         
@@ -27,7 +27,7 @@
         {
         }
 
-        public override void Gorev()
+        public override void Gorev() //override edip alt classda görev tanımladığımız metot
         {
             Console.Write($"{Ad} {Soyad},{Departman} departmanında yazılım geliştirici olarak çalışıyorum.");
             
